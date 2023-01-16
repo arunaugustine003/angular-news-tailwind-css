@@ -11,6 +11,10 @@
 npm-debug.log
 yarn-error.log
 
+#API Keys
+config.ts
+
+
 # IDEs and editors
 .idea/
 .project
