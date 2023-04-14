@@ -1,5 +1,8 @@
 # AngularNewsTailwindCss
 
+## This project uses Angular v15, TailwindCSS 3 and newsapi.org API (Developer versioN)
+## This project is currently not hosted beacuse I am using the developer version of the API which is not meant for production use
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.3.
 
 ## Development server
